@@ -1,6 +1,5 @@
 gufw
 neofetch
-autofs
 exfat-utils
 ntfs-3g
 bash-completion
