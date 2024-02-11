@@ -15,6 +15,6 @@ WIRELESS_PASS=""
 
 
 #applications
-   pacman -Sy --noconfirm - < /applist.txt
-   paru -Sy --noconfirm - < /aurlist.txt
+   pacman -Sy --noconfirm - < applist.txt
+   paru -Sy --noconfirm - < aurlist.txt
 
