@@ -11,7 +11,7 @@ WIRELESS_PASS=""
 
 
 #update
-   sudo pacman -Syu
+   #sudo pacman -Syu
 
 
 #applications
