@@ -10,6 +10,4 @@ thunderbird
 libreoffice-fresh
 signal-desktop
 firefox
-zsh
-zsh-completions
-zsh-history-substring-search
+starship
