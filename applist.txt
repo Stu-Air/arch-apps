@@ -9,5 +9,8 @@ transmission-gtk
 thunderbird
 libreoffice-fresh
 signal-desktop
-firefox
 starship
+alacritty
+stow
+gparted
+obsidian

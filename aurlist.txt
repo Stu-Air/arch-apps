@@ -3,3 +3,4 @@ timeshift
 vscodium-bin
 tidal-hifi-bin
 minecraft-launcher
+brave-bin
