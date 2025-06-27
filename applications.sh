@@ -17,5 +17,5 @@ WIRELESS_PASS=""
 #applications
    paru -Sy --noconfirm - < aurlist.txt
    sudo pacman -Sy --noconfirm - < applist.txt
-   
+
    exit

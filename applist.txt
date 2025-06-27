@@ -2,11 +2,9 @@ gufw
 fastfetch
 bash-completion
 htop
-rclone
 discord
 mpv
 transmission-gtk
-thunderbird
 libreoffice-fresh
 signal-desktop
 starship
@@ -14,3 +12,5 @@ alacritty
 stow
 gparted
 obsidian
+prismlauncher
+quodlibet
