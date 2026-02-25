@@ -1,5 +1,9 @@
 dropbox
 timeshift
-vscodium-bin
+stremio
 tidal-hifi-bin
+visual-studio-code-bin 
 brave-bin
+jackett-bin
+lidarr-bin
+wasistlos
