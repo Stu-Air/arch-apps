@@ -1,6 +1,5 @@
 dropbox
 timeshift
-stremio
 tidal-hifi-bin
 visual-studio-code-bin 
 brave-bin
