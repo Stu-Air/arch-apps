@@ -1,8 +1,8 @@
 dropbox
 timeshift
 tidal-hifi-bin
-visual-studio-code-bin 
 brave-bin
 jackett-bin
 lidarr-bin
 wasistlos
+visual-studio-code-bin

@@ -6,7 +6,7 @@ transmission-gtk
 libreoffice-fresh
 signal-desktop
 starship
-alacritty
+kitty
 stow
 obsidian
 prismlauncher

@@ -18,4 +18,8 @@ WIRELESS_PASS=""
    yay -Sy --noconfirm - < aurlist.txt
    sudo pacman -Sy --noconfirm - < applist.txt
 
+   flatpak install --noninteractive --assumeyes flathub com.stremio.Stremio
+   systemctl enable jackett.service
+   systemctl enable lidarr.service
+
    exit
