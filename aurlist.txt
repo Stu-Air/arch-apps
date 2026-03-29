@@ -5,4 +5,4 @@ brave-bin
 jackett-bin
 lidarr-bin
 wasistlos
-visual-studio-code-bin
+vscodium-bin
